@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/emersion/go-sasl"
+	"github.com/mogoman/go-sasl"
 )
 
 func TestNewXOAuth2Client(t *testing.T) {
